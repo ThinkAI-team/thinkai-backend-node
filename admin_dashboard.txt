@@ -2,4 +2,5 @@ Admin Dashboard
 - Thống kê tổng quan số lượng người dùng, khóa học, doanh thu
 - Biểu đồ truy cập theo ngày
 - Quản lý thông báo hệ thống
+- Xuất báo cáo PDF
 - Cập nhật gần nhất: 05/03/2026
